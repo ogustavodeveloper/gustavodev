@@ -1,38 +1,49 @@
-# Gustavo - Desenvolvedor de Soluções em IA e SaaS
+# 👋 Olá! Eu sou Gustavo Barros
 
-👋 Olá! Sou o Gustavo, desenvolvedor com foco em Inteligência Artificial e SaaS, apaixonado por criar soluções que otimizam o tempo e melhoram a experiência dos usuários. Estou sempre em busca de inovação e eficiência nos meus projetos.
-
----
-
-## 🛠 Projetos Atuais
-
-### [LearnLoop](https://learnloop.com.br) 📘  
-Plataforma de estudos voltada para o ENEM e Encceja, oferecendo:
-- **Corretor de redações** com opção de nível de ensino.
-- **Gerenciador de sessões de estudo** e **feed de artigos**.
-- **Mostra Virtual FECIBA** para que estudantes publiquem seus projetos.
-
-### SaaS para Freelancers 💼 (Em desenvolvimento)  
-Plataforma de gestão que oferece:
-- **Dashboard financeiro**, controle de clientes e projetos.
-- **Calculadora de precificação** e notificações de tarefas pendentes.
-- **Wiki** para o cliente acompanhar o progresso e cronograma.
-
-### Aplicativo de Treinamento Físico 💪 (Em desenvolvimento)  
-App para personal trainers e academias, com funcionalidades como:
-- **Perfis personalizados** para alunos, histórico de treinos e agendamentos.
-- **Feed** para compartilhamento de demandas e desempenho de membros.
+> Estudante e desenvolvedor, apaixonado por tecnologia, inovação e criação de projetos que fazem diferença.
 
 ---
 
-## 🚀 Tecnologias
+## 💡 Sobre Mim
 
-- **Linguagens**: Python, JavaScript
-- **Frameworks**: Flask, Django, Next.js
-- **Outros**: Inteligência Artificial, Desenvolvimento Web
+- Calouro em **Bacharelado Interdisciplinar em Ciência, Tecnologia e Inovação** na UFBA  
+- Interessado em **Engenharia de Software, Web Development e Startups**  
+- Amo transformar ideias em projetos reais, usando **Flask, React.js, Next.js e JavaScript**  
+- Sempre em busca de aprender algo novo e compartilhar conhecimento  
 
 ---
 
-## 🌐 Conecte-se comigo!
+## 🚀 Projetos em Destaque
 
-[Instagram](https://instagram.com/gustavorocha_br) | [LinkedIn](https://www.linkedin.com/in/gustavo-rocha-62907225b/)
+### [Estudaê](https://github.com/ogustavodeveloper/learnloop)  
+**Plataforma de correção de redações com IA** para estudantes, com foco em detalhamento pedagógico e suporte contínuo.  
+_Tecnologias:_ Flask, JavaScript, HTML, CSS  
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js  
+- **Backend:** Flask, Node.js  
+- **Banco de Dados:** SQL Alchemy
+- **Outros:** Git, GitHub Codespaces, VS Code, APIs  
+
+---
+
+## 🌱 Estou Aprendendo
+
+- Tecnologias modernas de **Next.js e TypeScript**  
+- Práticas de **DevOps e deploy em nuvem**  
+- Estruturas de **Microserviços**  
+
+---
+
+## 📫 Contato
+
+- **Email:** guxtavodev@email.com  
+- **LinkedIn:** [www.linkedin.com/in/gustavo-rocha-62907225b](www.linkedin.com/in/gustavo-rocha-62907225b)  
+- **Instagram:** [@gustavoroch_0](https://www.instagram.com/gustavorocha_0)  
+
+---
+
+> "Aprender nunca é demais, e programar é transformar ideias em realidade." 💡
