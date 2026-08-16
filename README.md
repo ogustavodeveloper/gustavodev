@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Gustavo Barros
+# 👋 Olá! Eu sou Gustavo Rocha
 
 > Estudante e desenvolvedor, apaixonado por tecnologia, inovação e criação de projetos que fazem diferença.
 
@@ -6,7 +6,7 @@
 
 ## 💡 Sobre Mim
 
-- Calouro em **Bacharelado Interdisciplinar em Ciência, Tecnologia e Inovação** na UFBA  
+- Estudante do **Bacharelado Interdisciplinar em Ciência, Tecnologia e Inovação** na Universidade Federal da Bahia (UFBA)
 - Interessado em **Engenharia de Software, Web Development e Startups**  
 - Amo transformar ideias em projetos reais, usando **Flask, React.js, Next.js e JavaScript**  
 - Sempre em busca de aprender algo novo e compartilhar conhecimento  
@@ -40,8 +40,8 @@ _Tecnologias:_ Flask, JavaScript, HTML, CSS
 
 ## 📫 Contato
 
-- **Email:** guxtavodev@email.com  
-- **LinkedIn:** [www.linkedin.com/in/gustavo-rocha-62907225b](www.linkedin.com/in/gustavo-rocha-62907225b)  
+- **Email:** guxtavodev@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/gustavorochatech](www.linkedin.com/in/gustavorochatech)  
 - **Instagram:** [@gustavoroch_0](https://www.instagram.com/gustavorocha_0)  
 
 ---
